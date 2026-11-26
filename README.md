@@ -9,5 +9,5 @@ Under development
 Java 17, Spring Boot, React, MySQL
 
 ## Team
-- [Mohammed Ali] (https://github.com/Mohammedali2111)
-- [Santhosh] (https://github.com/Santhosh-s-dev)
+- [Mohammed Ali](https://github.com/Mohammedali2111)
+- [Santhosh](https://github.com/Santhosh-s-dev)
